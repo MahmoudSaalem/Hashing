@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1525556655 source:d:\programs\code blocks\hashing\files.c
+	<stdio.h>
+	<stdlib.h>
+	"Image.h"
+	"Files.h"
+	"LinearProbing.h"
+	"SeparateChaining.h"
+
+1525556887 d:\programs\code blocks\hashing\image.h
+
+1525556756 d:\programs\code blocks\hashing\files.h
+
+1525556900 d:\programs\code blocks\hashing\linearprobing.h
+	"Image.h"
+
+1525556918 d:\programs\code blocks\hashing\separatechaining.h
+
+1525556665 source:d:\programs\code blocks\hashing\linearprobing.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Image.h"
+	"Files.h"
+	"LinearProbing.h"
+	"SeparateChaining.h"
+
+1525557227 source:d:\programs\code blocks\hashing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Image.h"
+	"Files.h"
+	"LinearProbing.h"
+	"SeparateChaining.h"
+	"MainMenu.h"
+
+1525556909 d:\programs\code blocks\hashing\mainmenu.h
+
+1525556691 source:d:\programs\code blocks\hashing\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Image.h"
+	"Files.h"
+	"LinearProbing.h"
+	"SeparateChaining.h"
+	"MainMenu.h"
+
+1525556701 source:d:\programs\code blocks\hashing\separatechaining.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Image.h"
+	"Files.h"
+	"LinearProbing.h"
+	"SeparateChaining.h"
+	"MainMenu.h"
+
